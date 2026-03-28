@@ -1,7 +1,10 @@
 <html>
-<head><title>Home</title></head>
+<head>
+<title>Home</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
 <body>
-<h2>Welcome to Simple E-Commerce</h2>
+<h1>Welcome to E-Commerce Store</h1>
 <a href="products">View Products</a>
 </body>
 </html>
