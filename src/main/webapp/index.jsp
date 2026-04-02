@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Home</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<h1>Welcome to E-Commerce Store</h1>
+<a href="products">View Products</a>
+</body>
+</html>
