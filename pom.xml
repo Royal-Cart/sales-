@@ -21,6 +21,16 @@
         </dependency>
     </dependencies>
 
+  <properties>
+                <sonar.host.url>http://54.145.41.223:9000/</sonar.host.url>
+                <!-- 
+                <sonar.login>admin</sonar.login>
+                <sonar.password>kkfunda</sonar.password> 
+                -->
+              <sonar.login>squ_84a45902a23ffbbe1e05f93d5eddd89b05b2f048</sonar.login>
+    
+
+     </properties>
     <build>
         <finalName>ecommerce</finalName>
     </build>
