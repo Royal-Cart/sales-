@@ -20,7 +20,21 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+  <distributionManagement>
 
+            <repository>
+              <id>nexus</id>
+              <name>ecom-release</name>
+              <url>http://54.152.72.1:8081/repository/ecom-release/</url>
+            </repository>
+
+            <snapshotRepository>
+              <id>nexus</id>
+              <name>ecom-snapshot </name>
+              <url>http://54.152.72.1:8081/repository/ecom-snapshot/</url>
+            </snapshotRepository>
+
+        </distributionManagement>
   <properties>
                 <sonar.host.url>http://54.145.41.223:9000/</sonar.host.url>
                 <!-- 
